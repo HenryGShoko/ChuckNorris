@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Henry Godknows Shoko"  ,
+  "author": "Henry Godknows Shoko",
   "license": "ISC",
   "dependencies": {
     "apollo-server": "^2.5.0",
