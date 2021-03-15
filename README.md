@@ -1,6 +1,6 @@
 # ChuckNorris
  
-Front-end (client)
+Front-end (client side)
 	
 	1.cd client
 	2.npm install
@@ -25,4 +25,4 @@ Folder-Structure:
 
 	graphql => includes queries of getCategories and getjoke components:
     	1- Categories Component: Show All Categories
-   	2- Joke Component: Show Joke of specific category
+   	    2- Joke Component: Show Joke of specific category
