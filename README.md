@@ -14,7 +14,8 @@ Front-end (client side)
 Back-end (server side)
 	
 	1.cd server
-	2.node server.js
+	2.npm install
+	3.node server.js
 
 	1.Node.js - Runtime environment for JS
 	2.Apollo Server - To build a self-documenting GraphQL API server
